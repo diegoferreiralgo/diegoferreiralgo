@@ -16,6 +16,10 @@
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 </div>
+  
+  <div>
+    Olá... meu nome é Diego Ferreira e sou um amante de programação e estudante da área desde 2019. Tenho ensino superior completo e bootcamps da Rockseat (Node, React e React Native) e busco um opor unidade na área de desenvolvimento de sistemas
+    </div>
 
   ##
   
