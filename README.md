@@ -1,6 +1,8 @@
 ### Olá... eu sou Diego Ferreira 👋
 
-    Olá... meu nome é Diego Ferreira e sou um amante de programação e estudante da área desde 2019. Tenho ensino superior completo e bootcamps da Rockseat (Node, React e React Native) e busco um opor unidade na área de desenvolvimento de sistemas
+<div>
+    Oi tudo bem ?Muito prazer meu nome é Diego Ferreira e sou um amante de programação e estudante da área desde 2019. Tenho ensino superior completo e bootcamps da Rockseat (Node, React e React Native) e busco um opor unidade na área de desenvolvimento de sistemas
+ </div>
 
 <div align="center">
   <a href="https://github.com/diegoferreiralgo">
