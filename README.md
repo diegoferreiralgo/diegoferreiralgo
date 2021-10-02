@@ -1,5 +1,7 @@
 ### Olá... eu sou Diego Ferreira 👋
 
+    Olá... meu nome é Diego Ferreira e sou um amante de programação e estudante da área desde 2019. Tenho ensino superior completo e bootcamps da Rockseat (Node, React e React Native) e busco um opor unidade na área de desenvolvimento de sistemas
+
 <div align="center">
   <a href="https://github.com/diegoferreiralgo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,10 +19,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 </div>
   
-  <div>
-    Olá... meu nome é Diego Ferreira e sou um amante de programação e estudante da área desde 2019. Tenho ensino superior completo e bootcamps da Rockseat (Node, React e React Native) e busco um opor unidade na área de desenvolvimento de sistemas
-    </div>
-
   ##
   
   <div> 
