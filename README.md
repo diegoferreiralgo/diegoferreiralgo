@@ -1,4 +1,4 @@
-<h1> Diego Ferreira Dev 🚀 🤓 👨🏻‍💻 🎹 </h1>
+<h1> Diego Ferreira</h1>
 <p>PL Support Analyst at Junta de Missões Mundiais</p>
 
 
@@ -11,8 +11,6 @@
 </div>
 
   <img align="right" alt="DG-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
----
-
 
 <p style="margin-top:40px">Oi tudo bem ? Muito prazer meu nome é Diego Ferreira e sou um amante de programação e estudante da área desde 2019. Tenho ensino superior completo e bootcamps da Rockseat (Node, React e React Native) e busco um oportunidade na área de desenvolvimento de sistemas</p>
 
