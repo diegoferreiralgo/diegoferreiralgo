@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "diegoferreira1964@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="130">
   </a>
 </div>
 
@@ -38,13 +37,3 @@
 </div>
 
 ---
-
-### :book: Blogs and posts :
-
-(https://ezdevs.com.br/react-native-o-uso-correto-do-hook-useeffect/)
-
-(https://ezdevs.com.br/desenvolvedor-junior-como-subir-de-nivel-atuando-com-react-native/)
-
-(https://ezdevs.com.br/react-native-instalando-bibliotecas-em-seu-aplicativo/)
-
-(https://ezdevs.com.br/react-native-como-conseguir-um-design-profissional-para-seu-aplicativo/)
