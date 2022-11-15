@@ -36,4 +36,4 @@ I’m a PL Support Analyst. Currently I'm working as a Support Analyst at [**JMM
 ### :hammer_and_wrench: 💬 Find me elsewhere :
    
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-a60a8a161/)](https://www.linkedin.com/in/diego-ferreira-a60a8a161/) 
-   [![Gmail Badge](https://img.shields.io/badge/-diegoferreira1964@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:fhugoduarte@gmail.com)
+   [![Gmail Badge](https://img.shields.io/badge/-diegoferreira1964@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:diegoferreira1964@gmail.com)
