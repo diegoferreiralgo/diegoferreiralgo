@@ -10,7 +10,7 @@
   </a>
 </div>
 
-
+  <img align="right" alt="DG-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 ---
 
 
