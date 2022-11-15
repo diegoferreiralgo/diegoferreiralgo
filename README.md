@@ -7,7 +7,7 @@ I’m a PL Support Analyst. Currently I'm working as a Support Analyst at [**JMM
 
   <img align="right" alt="gif" height="100" style="border-radius:30px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p style="margin-top:40px">Hello how are you? Nice to meet you, my name is Diego Ferreira and I'm passionate about technology... I have completed technical education (Maintenance and support), graduation (Information System), Ignite bootcamps (Node, React and React Native) taught by [**Rocketseat**](https://github.com/rocketseat-education) and I'm looking for an opportunity in the development area.</p>
+<p style="margin-top:40px">Hello how are you? Nice to meet you, my name is Diego Ferreira and I'm passionate about technology... I have completed technical education (Maintenance and support), graduation (Information System), Ignite bootcamps (Node, React and React Native) taught by Rocketseat and I'm looking for an opportunity in the development area.</p>
 
 ---       
 
@@ -36,5 +36,5 @@ I’m a PL Support Analyst. Currently I'm working as a Support Analyst at [**JMM
    #### 💬 Find me elsewhere
    
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-a60a8a161/)](https://www.linkedin.com/in/diego-ferreira-a60a8a161/) 
-   [![Gmail Badge](https://img.shields.io/badge/-diegoferreira1964@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)]diegoferreira1964@gmail.com)
+   [[![Gmail Badge](https://img.shields.io/badge/-diegoferreira1964@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:fhugoduarte@gmail.com)
 </div>
