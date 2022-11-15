@@ -1,6 +1,8 @@
 <h1> Diego Ferreira</h1>
-<p>PL Support Analyst at Junta de Missões Mundiais</p>
 
+---
+<p>PL Support Analyst at Junta de Missões Mundiais</p>
+---
 
 <div id="badges">
    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/diego-ferreira-a60a8a161//">
